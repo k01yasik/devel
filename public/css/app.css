@@ -10505,3 +10505,11 @@ nav ul li:last-child {
   color: #262392;
 }
 
+label {
+  color: #232323;
+}
+
+.margin-bottom-1 {
+  margin-bottom: 1em;
+}
+
