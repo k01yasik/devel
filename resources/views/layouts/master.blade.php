@@ -32,8 +32,8 @@
         @include('includes.header')
     </div>
 </div>
-<div class="my-row">
-    <div class="my-row-wrapper">
+<div class="my-row vertical-height">
+    <div class="my-row-wrapper vertical-height">
         <div class="main">
             @yield('content')
         </div>

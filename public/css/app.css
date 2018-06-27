@@ -10434,8 +10434,6 @@ a.text-dark:focus {
 }
 
 .my-row-wrapper .main {
-  width: 65.33%;
-  margin-right: 2%;
   padding: 2em;
 }
 
@@ -10511,5 +10509,13 @@ label {
 
 .margin-bottom-1 {
   margin-bottom: 1em;
+}
+
+.margin-top-3 {
+  margin-top: 3em;
+}
+
+.vertical-height {
+  height: calc(100vh - 5.5em);
 }
 
